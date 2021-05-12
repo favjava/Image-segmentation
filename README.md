@@ -19,7 +19,7 @@ For skimage command is:   pip install scikit-image
 For numpy command is:     pip install numpy 
 For imutils command is:   pip install imutils 
 For scipy command is:     pip install scipy
-
+**Make sure you have the every version of microsoft visual C++ installed in your PC.**
 # Execution of project: 
 # You can choose your own images from PC and add the path in the imread function to generate the desired output.
 
